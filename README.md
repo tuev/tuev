@@ -27,6 +27,18 @@
 
 ---
 
+## 🤣 Dev joke & quote of the day
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random dev joke" />
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
+  <br/>
+  <sub>🔄 Refresh the page for a new one</sub>
+</div>
+
+---
+
 ## 🛠️ Tech stack across **all** my repos (private + public + forks)
 
 ### Languages
@@ -113,6 +125,44 @@ Shell · Go · Rust · Scala  ▏ 1–2 each
     <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/tuev/tuev/output/github-snake.svg" />
   </picture>
 </div>
+
+## 👾 Pac-Man eats them too
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuev/tuev/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuev/tuev/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/tuev/tuev/output/pacman-contribution-graph.svg" />
+  </picture>
+</div>
+
+---
+
+## 🎲 Play Connect 4 against my bot
+
+Everyone who visits plays on **one shared board**: you are 🔴, the bot is 🟡.
+Click a column number, press **Submit new issue**, and about 30 seconds later GitHub Actions drops your disc, lets the bot answer and redraws this board.
+
+<!-- CONNECT4:START -->
+<div align="center">
+
+**Your move!** You are 🔴, the bot is 🟡. Click a column number to drop a disc.
+
+| [1️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C1&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [2️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C2&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [3️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C3&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [4️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C4&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [5️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C5&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [6️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C6&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [7️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C7&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+
+🏆 Visitors **0** · 🤖 Bot **0** · 🤝 Draws **0**
+
+<sub>No moves yet, be the first!</sub>
+
+</div>
+<!-- CONNECT4:END -->
 
 ---
 
