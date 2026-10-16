@@ -4,21 +4,15 @@
     ".......",
     ".......",
     ".......",
-    "...Y...",
-    "...R..."
+    ".......",
+    "......."
   ],
   "status": "playing",
-  "moves": 2,
+  "moves": 0,
   "score": {
     "humans": 0,
     "bot": 0,
     "draws": 0
   },
-  "history": [
-    {
-      "user": "tuev",
-      "col": 4,
-      "botCol": 4
-    }
-  ]
+  "history": []
 }
