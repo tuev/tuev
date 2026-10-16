@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Hi%2C%20I%27m%20tuev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20%C2%B7%20AI%20agents%20%C2%B7%20automation%20%C2%B7%20data&descAlignY=58&descSize=20" alt="Hi, I'm tuev" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Hi%2C%20I%27m%20tuev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20%C2%B7%20AI%20agents%20%C2%B7%20automation%20%C2%B7%20data&descAlignY=58&descSize=20" alt="Hi, I'm tue" width="100%" />
 
 <a href="https://github.com/tuev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=I+build+things+with+TypeScript+%26+Python;AI+agents+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+n8n;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Node;136+repos+and+counting+%F0%9F%9A%80" alt="Typing SVG" />
