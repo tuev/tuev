@@ -14,6 +14,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&backgroundColor=1a1b27&quoteColor=c0caf5&authorColor=7aa2f7&symbolColor=bb9af7" alt="Random quote" />
+</div>
+
 ---
 
 ## 🐍 Snake eats my contributions
@@ -36,10 +40,6 @@
 - 🌱 Always learning: algorithms, system design, design patterns, new languages (**Go**, **Rust**)
 
 > Most of my work lives in private repos, so this page is the highlight reel. 🎬
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&backgroundColor=1a1b27&quoteColor=c0caf5&authorColor=7aa2f7&symbolColor=bb9af7" alt="Random quote" />
-</div>
 
 ---
 
