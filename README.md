@@ -138,34 +138,6 @@ Shell · Go · Rust · Scala  ▏ 1–2 each
 
 ---
 
-## 🎲 Play Connect 4 against my bot
-
-Everyone who visits plays on **one shared board**: you are 🔴, the bot is 🟡.
-Click a column number, press **Submit new issue**, and about 30 seconds later GitHub Actions drops your disc, lets the bot answer and redraws this board.
-
-<!-- CONNECT4:START -->
-<div align="center">
-
-**Your move!** You are 🔴, the bot is 🟡. Click a column number to drop a disc.
-
-| [1️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C1&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [2️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C2&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [3️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C3&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [4️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C4&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [5️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C5&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [6️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C6&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) | [7️⃣](https://github.com/tuev/tuev/issues/new?title=connect4%7Cdrop%7C7&body=Just%20press%20Submit%20new%20issue%2C%20the%20board%20updates%20itself%20in%20about%2030%20seconds.) |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-
-🏆 Visitors **0** · 🤖 Bot **0** · 🤝 Draws **0**
-
-<sub>No moves yet, be the first!</sub>
-
-</div>
-<!-- CONNECT4:END -->
-
----
-
 ## 🎮 Mini game: guess my stack
 
 <details>
