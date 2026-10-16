@@ -37,16 +37,14 @@
 
 > Most of my work lives in private repos, so this page is the highlight reel. 🎬
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&backgroundColor=1a1b27&quoteColor=c0caf5&authorColor=7aa2f7&symbolColor=bb9af7" alt="Random quote" />
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12,20,24" width="100%" alt="" />
-  <br/><br/>
   <img src="https://readme-jokes.vercel.app/api?bgColor=%231a1b27&borderColor=%237aa2f7&qColor=%237dcfff&aColor=%23bb9af7&textColor=%23c0caf5&codeColor=%23e0af68" alt="Random dev joke" />
-  <br/><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&backgroundColor=1a1b27&quoteColor=c0caf5&authorColor=7aa2f7&symbolColor=bb9af7" alt="Random quote" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12,20,24" width="100%" alt="" />
   <br/>
   <sub><i>🔄 refresh the page for a new one</i></sub>
 </div>
