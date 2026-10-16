@@ -154,12 +154,12 @@ Click a column number, press **Submit new issue**, and about 30 seconds later Gi
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | 🟡 | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | 🔴 | ⚪ | ⚪ | ⚪ |
 
 🏆 Visitors **0** · 🤖 Bot **0** · 🤝 Draws **0**
 
-<sub>No moves yet, be the first!</sub>
+<sub>Recent moves: [tuev](https://github.com/tuev) → 4 / 🤖 → 4</sub>
 
 </div>
 <!-- CONNECT4:END -->
