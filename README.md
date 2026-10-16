@@ -16,6 +16,18 @@
 
 ---
 
+## 🐍 Snake eats my contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuev/tuev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuev/tuev/output/github-snake.svg" />
+    <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/tuev/tuev/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 👋 About me
 
 - 🔭 Building **AI agents**, **MCP servers**, **RAG** apps and workflow automation
@@ -116,28 +128,6 @@ Shell · Go · Rust · Scala  ▏ 1–2 each
 
 ---
 
-## 🐍 Snake eats my contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuev/tuev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuev/tuev/output/github-snake.svg" />
-    <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/tuev/tuev/output/github-snake.svg" />
-  </picture>
-</div>
-
-## 👾 Pac-Man eats them too
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuev/tuev/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuev/tuev/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/tuev/tuev/output/pacman-contribution-graph.svg" />
-  </picture>
-</div>
-
----
-
 ## 🎮 Mini game: guess my stack
 
 <details>
@@ -168,6 +158,18 @@ Shell · Go · Rust · Scala  ▏ 1–2 each
 </details>
 
 > 💬 Beat all 3 rounds? Drop a ⭐ on this repo, it makes my day.
+
+---
+
+## 👾 Pac-Man eats them too
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuev/tuev/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuev/tuev/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/tuev/tuev/output/pacman-contribution-graph.svg" />
+  </picture>
+</div>
 
 ---
 
